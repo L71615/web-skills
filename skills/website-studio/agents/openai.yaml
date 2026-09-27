@@ -1,0 +1,4 @@
+interface:
+  display_name: "网站工作室"
+  short_description: "规划、设计、制作并验证网站"
+  default_prompt: "使用 $website-studio 帮我把网站想法整理并制作成可验证的网站。"
